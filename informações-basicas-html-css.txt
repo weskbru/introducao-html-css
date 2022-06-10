@@ -1,0 +1,17 @@
+	HTML E CSS 
+- HTML Sigla para HyperText Markup Language
+Linguagem de Marcação de Hipertexto o HTML é o componente base da web. Isso quer dizer que ele permite a construção de websites 
+a estrutura base do HTML é 
+
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Título da página</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    Aqui vai o código HTML que fará seu site aparecer.
+  </body>
+</html>
+
+-CSS é a sigla para Cascading Style Sheets, ou seja, Folhas de Estilo em Cascatas. É uma maneira de dar estilo ao código criado por linguagens como HTML, XML ou XHTML
